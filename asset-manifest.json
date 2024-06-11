@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.c0e2890f.css",
+    "main.js": "/Myportfolio/static/js/main.a17ce93a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Myportfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Myportfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Jarvis.png": "/Myportfolio/static/media/Jarvis.d71faa8ab18fc09b573d.png",
+    "static/media/home-main.svg": "/Myportfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Myportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Nikita__Sinha.pdf": "/Myportfolio/static/media/Nikita__Sinha.0b4cfd677ce051165191.pdf",
+    "static/media/home-bg.jpg": "/Myportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/DaddyJokeChromeExtension.png": "/Myportfolio/static/media/DaddyJokeChromeExtension.1b1017316f268d54c1d7.png",
+    "static/media/pre.svg": "/Myportfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Myportfolio/index.html",
+    "main.c0e2890f.css.map": "/Myportfolio/static/css/main.c0e2890f.css.map",
+    "main.a17ce93a.js.map": "/Myportfolio/static/js/main.a17ce93a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Myportfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Myportfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e2890f.css",
+    "static/js/main.a17ce93a.js"
+  ]
+}
